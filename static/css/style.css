@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    min-height: 100vb;
+    display: grid;
+    place-content: center;
+    font-size: 3rem;
+    background-color: ghostwhite;
+    color: black;
+}
+
+h1, p {
+    text-align: center;
+}
